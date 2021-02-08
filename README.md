@@ -1,2 +1,3 @@
 # Hello there!
-Welcome to by Github profile!
+Welcome to my Github profile!
+<i>(I will cleanup this profile page someday...)</i>
