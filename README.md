@@ -4,13 +4,13 @@ Check out some of my ❄*cool* stuff!
 <p align="center">
     <a href="https://matikkaeditori.fi">
         <kbd>
-            <img align="center" height="110" width="110"src="https://beta.matikkaeditori.fi/bin/imgs/icons/favicon-512x512.png">
+            <img align="center" height="110" width="110"src="https://github.com/Esinko/Esinko/blob/main/assets/matikkaeditori.png">
         </kbd>
     </a>
-    <img width="25" height="25" href="">
-    <a href="https://openwilma.tech" value="-">
+    <img width="25" height="25" href="https://github.com/Esinko/Esinko/blob/main/assets/empty.png">
+    <a href="https://openwilma.tech">
         <kbd>
-            <img align="center" height="110" width="292" src="https://openwilma.tech/assets/openwilma/openwilma_white_horizontal.png">
+            <img align="center" height="110" width="292" src="https://github.com/Esinko/Esinko/blob/main/assets/openwilma.png">
         </kbd>
     </a>
 </p>
