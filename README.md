@@ -8,7 +8,7 @@ Check out some of my ❄*cool* stuff!
         </kbd>
     </a>
     <a>
-        <img width="25" height="25" src="https://raw.githubusercontent.com/Esinko/Esinko/main/assets/empty.png" float="left">
+        <img width="300" height="25" src="https://raw.githubusercontent.com/Esinko/Esinko/main/assets/empty.png" float="left">
     </a>
     <a href="https://openwilma.tech" float="left">
         <kbd>
