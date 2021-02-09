@@ -1,5 +1,4 @@
-# 👋 Hello there!
-Check out some of my ❄*cool* stuff!
+# 👋
 <p align="center">
     <a href="https://matikkaeditori.fi" float="left">
         <img align="center" height="110" width="110"src="https://github.com/Esinko/Esinko/blob/main/assets/matikkaeditori.png">
