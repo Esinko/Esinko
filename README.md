@@ -12,7 +12,7 @@ Check out some of my ❄*cool* stuff!
     </a>
     <a href="https://openwilma.tech" float="left">
         <kbd>
-            <img align="center" height="100" width="180" src="https://raw.githubusercontent.com/OpenWilma/openwilma.github.io/master/assets/openwilma/github_banners/openwilma_js_gh_banner.png">
+            <img align="center" height="110" width="292" src="https://github.com/Esinko/Esinko/blob/main/assets/openwilma.png">
         </kbd>
     </a>
 </p>
