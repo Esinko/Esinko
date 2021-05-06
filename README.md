@@ -13,6 +13,6 @@
         <img width="25" height="25" src="https://raw.githubusercontent.com/Esinko/Esinko/main/assets/empty.png" float="left">
     </a>
     <a href="https://testausserveri.fi" float="left">
-        <img align="center" height="110" width="292" src="https://github.com/Esinko/Esinko/blob/main/assets/testausserveri_gradient_logo.png">
+        <img align="center" height="50" width="292" src="https://github.com/Esinko/Esinko/blob/main/assets/testausserveri_gradient_logo.png">
     </a>
 </p>
